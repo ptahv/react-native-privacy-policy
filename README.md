@@ -1,2 +1,4 @@
-# react-native-privacy-policy
-React Native App - Privacy policy
+# React Native - Privacy Policy
+
+## Camera
+This application uses camera to take pictures and to read QR -codes.
